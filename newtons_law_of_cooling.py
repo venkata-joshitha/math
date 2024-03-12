@@ -1,3 +1,5 @@
+# If the temp of the body is changing from 100°c to 70°c in 15 min. Find when the temp will be 40°c. If the temperature of air is 30°c?
+
 import numpy as np
 def calculate_temperature(initial_temp, final_temp, room_temp, cooling_rate, time):
 
